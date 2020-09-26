@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Todo
+This todo app was used as practice with React and Redux. It uses local storage to persist the list of todos.
+
 ## Available Scripts
 
 In the project directory, you can run:
